@@ -4,12 +4,11 @@
 
 #### Analysis: 
 
-- when we visit the lab link we can see the homepage of the shop and different products that are available.
-- Add the robots.txt to the url https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/robots.txt
-- It gives us the robots.txt page with Disallow: /administrator-panel.
-- Then we can redirect to the  https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/administrator-panel
-- Here we can see the all the users and can delete anyone of them.
-- to solve this lab we can delete the user "carlos".
+- Start by visiting the homepage of the shop, where you can see various products listed.
+- Next, add /robots.txt to the URL: https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/robots.txt
+- The robots.txt file reveals a disallowed path: Disallow: /administrator-panel
+- Navigate to the following https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/administrator-panel
+- This brings you to the admin panel, where you can view all user accounts. To solve the lab, simply delete the user "carlos" by selecting the delete option next to his name.
 
 
 
