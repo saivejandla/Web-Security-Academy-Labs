@@ -1,3 +1,4 @@
+
 ### Lab-1 : Unprotected admin functionality
 
 ### Goal: Find the Unprotected admin panel and delet the user carlos
@@ -9,6 +10,8 @@
 - The robots.txt file reveals a disallowed path: Disallow: /administrator-panel
 - Navigate to the following https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/administrator-panel
 - This brings you to the admin panel, where you can view all user accounts. To solve the lab, simply delete the user "carlos" by selecting the delete option next to his name.
+
+By doing this, you successfully complete the lab challenge!!!
 
 
 
