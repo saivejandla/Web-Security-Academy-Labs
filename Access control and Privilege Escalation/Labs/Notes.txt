@@ -27,5 +27,23 @@ By doing this, you successfully complete the lab challenge!!!
 
 By doing this, you successfully complete the lab-2!!!
 
+### Lab-3 : User role controlled by request parameter
+
+### Goal: Solve the lab by accessing the admin panel and using it to delete the user carlos.
+    User can log in to their own account using the following credentials: wiener:peter
+
+#### Analysis: 
+
+- Log in as a regular user using valid credentials.
+- Inspect the user's cookies and find the "admin" cookie with a value of false.
+- Change the value of the "admin" cookie to true and refresh the page.
+- After refreshing, notice that the user now has admin privileges and can access the admin panel.
+- Click on the admin panel link to navigate to the user accounts page.
+- To complete the lab, delete the user account named "carlos" by selecting the delete option next to his name.
+
+By doing this, you successfully complete the lab-3!!!
+
+
+
 
 
