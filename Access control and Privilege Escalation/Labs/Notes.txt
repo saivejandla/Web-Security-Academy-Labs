@@ -1,7 +1,7 @@
 
 ### Lab-1 : Unprotected admin functionality
 
-### Goal: Find the Unprotected admin panel and delet the user carlos
+### Goal: Find the Unprotected admin panel and delete the user carlos
 
 #### Analysis: 
 
@@ -12,6 +12,12 @@
 - This brings you to the admin panel, where you can view all user accounts. To solve the lab, simply delete the user "carlos" by selecting the delete option next to his name.
 
 By doing this, you successfully complete the lab challenge!!!
+
+### Lab-1 : Unprotected admin functionality
+
+### Goal: Find the Unprotected admin panel and delete the user carlos
+
+#### Analysis: 
 
 
 
