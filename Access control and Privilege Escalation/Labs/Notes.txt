@@ -13,12 +13,17 @@
 
 By doing this, you successfully complete the lab challenge!!!
 
-### Lab-1 : Unprotected admin functionality
+### Lab-2 : Unprotected admin functionality with unpredictable URL
 
-### Goal: Find the Unprotected admin panel and delete the user carlos
+### Goal: Find the Unprotected admin panel that is located at an unpredictable location and delete the user carlos
 
 #### Analysis: 
 
+- Start by visiting the homepage of the shop, where you can see various products listed.
+- We can find the link to the admin panel in the source code of the homepage of the lab, which is adminPanelTag.setAttribute('href', '/admin-6xaa5o');
+- That will be the location ofthe admin panel, where we can access the users and delete them.
+- Navigate to the following https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/admin-dif9jv
+- This brings you to the admin panel, where you can view all user accounts. To solve the lab, simply delete the user "carlos" by selecting the delete option next to his name. 
 
 
 
