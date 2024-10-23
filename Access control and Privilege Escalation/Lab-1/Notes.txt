@@ -1,0 +1,17 @@
+### Lab-1 : Unprotected admin functionality
+
+### Goal: Find the Unprotected admin panel and delet the user carlos
+
+#### Analysis: 
+
+- when we visit the lab link we can see the homepage of the shop and different products that are available.
+- Add the robots.txt to the url https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/robots.txt
+- It gives us the robots.txt page with Disallow: /administrator-panel.
+- Then we can redirect to the  https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/administrator-panel
+- Here we can see the all the users and can delete anyone of them.
+- to solve this lab we can delete the user "carlos".
+
+
+
+
+
