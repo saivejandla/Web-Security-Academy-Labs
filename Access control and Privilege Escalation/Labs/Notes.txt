@@ -25,6 +25,7 @@ By doing this, you successfully complete the lab challenge!!!
 - Navigate to the following https://0a6c00050384ce4584bf8a2100b100c0.web-security-academy.net/admin-dif9jv
 - This brings you to the admin panel, where you can view all user accounts. To solve the lab, simply delete the user "carlos" by selecting the delete option next to his name. 
 
+By doing this, you successfully complete the lab-2!!!
 
 
 
